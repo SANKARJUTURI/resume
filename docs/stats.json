@@ -1,17 +1,17 @@
 {
   "leetcode": {
-    "solved": 746,
+    "solved": 748,
     "easy": 348,
-    "medium": 358,
+    "medium": 360,
     "hard": 40
   },
   "gfg": {
-    "solved": 684,
+    "solved": 686,
     "basic": 15,
     "easy": 296,
     "medium": 317,
     "hard": 29,
     "score": 2115
   },
-  "updated": "2026-10-25"
+  "updated": "2026-10-26"
 }
